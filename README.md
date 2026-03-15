@@ -4,9 +4,9 @@ A sleek, cyberpunk-themed Flutter application designed for seamless Bluetooth co
 
 ## 📸 App Screenshots
 <p align="center">
-  <img src="screenshots/splash.png" width="200" alt="Cyberpunk Glitch Splash Screen">
-  <img src="screenshots/dashboard.png" width="200" alt="Main Dashboard Control">
-  <img src="screenshots/visualizer.png" width="200" alt="Live State Visualizer">
+  <img src="screenshots/splash.jpeg" width="200" alt="Cyberpunk Glitch Splash Screen">
+  <img src="screenshots/dashboard.jpeg" width="200" alt="Main Dashboard Control">
+  <img src="screenshots/visualizer.jpeg" width="200" alt="Live State Visualizer">
 </p>
 
 ## ✨ Features
