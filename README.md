@@ -1,16 +1,29 @@
-# eliva_control
+# Aliva Control 🤖
 
-A new Flutter project.
+A sleek, cyberpunk-themed Flutter application designed for seamless Bluetooth control of a custom-built robot. 
 
-## Getting Started
+## 📸 App Screenshots
+<p align="center">
+  <img src="screenshots/splash.png" width="200" alt="Cyberpunk Glitch Splash Screen">
+  <img src="screenshots/dashboard.png" width="200" alt="Main Dashboard Control">
+  <img src="screenshots/visualizer.png" width="200" alt="Live State Visualizer">
+</p>
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* **Cyberpunk UI:** Immersive cyberpunk glitch splash screen and stylized interface.
+* **Directional Movement Control:** Intuitive dashboard for sending movement commands (Forward, Backward, Left, Right, Stop).
+* **Articulated Control:** Precision control over the robot's head rotation (Left, Center, Right) and arm positions (Left/Right Arm Up/Down).
+* **Live State Visualizer:** Real-time visual feedback of the robot's current state, including head angle and arm positioning.
+* **Customizable Bluetooth Settings:** Dedicated settings page to easily configure and map the specific Bluetooth command strings sent to the robot.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+* Flutter SDK
+* A Bluetooth-enabled microcontroller (like an ESP32 or Arduino with a Bluetooth module) for the robot hardware.
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/nihaldas007/Aliva.git](https://github.com/nihaldas007/Aliva.git)
